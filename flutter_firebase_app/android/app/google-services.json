@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "849251912068",
+    "firebase_url": "https://prague-codelab-50a55.firebaseio.com",
+    "project_id": "prague-codelab-50a55",
+    "storage_bucket": "prague-codelab-50a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849251912068:android:df8c3b14c2d1c615",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849251912068-86brm6nmibgbco6o18tu30qvg4rqeoil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWt680yQQ8UYiaQwnd6RB4s9oLo_GbM-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
